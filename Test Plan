@@ -1,0 +1,109 @@
+Sample Test Plan Template 📋
+1. Test Plan ID
+
+TP-001
+
+2. Introduction
+
+This test plan covers the testing strategy for the Online Shopping Portal project. The objective is to ensure the system functions correctly, meets performance requirements, and provides a seamless user experience.
+
+3. Scope
+
+In-Scope:
+
+User registration and login
+
+Product search and filtering
+
+Shopping cart functionality
+
+Payment processing
+
+Order confirmation and tracking
+
+Out-of-Scope:
+
+Legacy API integrations
+
+Marketing analytics module
+
+4. Test Objectives
+
+Verify all functional requirements are met
+
+Identify defects early in development
+
+Validate system performance under expected load
+
+5. Test Criteria
+
+Entry Criteria:
+
+Test environment is set up
+
+Requirements are approved
+
+Test data is prepared
+
+Exit Criteria:
+
+All planned test cases executed
+
+All critical defects resolved or mitigated
+
+Test summary report approved
+
+6. Resources
+
+Human:
+
+2 QA engineers, 1 QA lead, 1 automation engineer
+
+Tools:
+
+Selenium, JUnit, Jira, Postman
+
+Environment:
+
+Test server, staging database, test network
+
+Data:
+
+Sample user accounts, product catalog, payment simulation data
+
+7. Test Schedule
+Phase	Start Date	End Date
+Test Planning	01-Sep-2025	03-Sep-2025
+Test Case Design	04-Sep-2025	06-Sep-2025
+Test Execution	07-Sep-2025	15-Sep-2025
+Defect Fix & Retesting	16-Sep-2025	20-Sep-2025
+Test Closure	21-Sep-2025	22-Sep-2025
+8. Roles & Responsibilities
+
+QA Lead: Plan & coordinate testing
+
+QA Engineers: Execute test cases, log defects
+
+Automation Engineer: Develop automated test scripts
+
+Developers: Fix defects & support testing
+
+9. Test Deliverables
+
+Test cases and scripts
+
+Defect reports
+
+Test execution reports
+
+Test summary report
+
+10. Risk & Mitigation
+Risk	Mitigation
+Test environment downtime	Maintain backup environment
+Delay in defect fixes	Prioritize critical defects first
+Incomplete requirements	Continuous communication with stakeholders
+11. Approval
+Role	Name	Signature / Date
+Project Manager	John Doe	01-Sep-2025
+QA Lead	Jane Smith	01-Sep-2025
